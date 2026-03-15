@@ -73,6 +73,7 @@ class Loginscreen extends StatelessWidget {
                           child: Row(
                             mainAxisAlignment: MainAxisAlignment.center,
                             children: [
+                              
                               Text(
                                 "Login With ",
                                 style: TextStyle(
